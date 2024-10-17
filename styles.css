@@ -1,0 +1,28 @@
+.box{
+    background-color: aqua;
+    height: 200px;
+    width: 300px;
+}
+
+.responsive-box{
+    background-color: beige;
+    height: 50vw;
+    width: 50vw;
+}
+
+.padded-text{
+    background-color: blueviolet;
+    padding: 20px;
+}
+
+.custom-padding{
+    background-color: cadetblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.border-box{
+    border: black 2px solid;
+}
