@@ -26,3 +26,29 @@
 .border-box{
     border: black 2px solid;
 }
+
+.rounded-border{
+    border: red dotted 3px;
+    border-radius: 15px;
+}
+
+.margin-text{
+    background-color: chocolate;
+    margin: 30px;
+}
+
+.custom-margin{
+    background-color: aquamarine;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.inline-element{
+    display: inline;
+}
+
+.block-element{
+    display: block;
+}
