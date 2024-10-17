@@ -46,9 +46,32 @@
 }
 
 .inline-element{
+    background-color: bisque;
     display: inline;
 }
 
 .block-element{
+    background-color: grey;
     display: block;
+}
+
+.inline-block-element{
+    background-color: green;
+    display: inline-block;
+}
+
+.hidden-element{
+    display: none;
+}
+
+.visible-element{
+    visibility: visible;
+}
+
+.invisible-element{
+    visibility: hidden;
+}
+
+.transparent-box{
+    background-color: rgb(0, 0, 255, 0.5);
 }
